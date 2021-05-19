@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>129806661288-3n3d2g0as39gdjd2ft93ie3mvbnhi2m2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129806661288-3n3d2g0as39gdjd2ft93ie3mvbnhi2m2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClgyARzIW9Mw0XwwaPNt2zAW-8RxQEV_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129806661288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mustafaadnan.chatFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-mustafa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-mustafa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129806661288:ios:fa8c7c87895ec9c593749d</string>
+	<key>DATABASE_URL</key>
+	<string>https://flash-chat-mustafa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
