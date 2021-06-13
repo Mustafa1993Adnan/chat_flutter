@@ -30,6 +30,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               height: 48.0,
             ),
             TextField(
+              keyboardType: TextInputType.emailAddress,
               onChanged: (value) {
                 //Do something with the user input.
               },
@@ -47,6 +48,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               decoration:
                   kTextFieldDecoration.copyWith(hintText: 'Enter you password'),
               textAlign: TextAlign.center,
+              obscureText: true,
             ),
             SizedBox(
               height: 24.0,
